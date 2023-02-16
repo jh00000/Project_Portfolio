@@ -1,5 +1,5 @@
 # 김지호 포트폴리오
-> "융합적 사고가 가능한 인재"
+"융합적 사고가 가능한 인재"
 
 </br>
 
@@ -9,7 +9,7 @@
 </br>
 
 ## :bulb: Contact
-> E-mail : jinxpoem214@gmail.com
+E-mail : jinxpoem214@gmail.com
 
 </br>
 
