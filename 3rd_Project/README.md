@@ -1,7 +1,6 @@
 # 자연재해 발생 및 피해규모 예측
 > 소개: 2011년 ~ 2022년의 기상 지표를 분석하여 향후 자연재해 발생 및 피해규모 예측
 >
-> 프로젝트 상세 설명
 > - [1. 데이터 수집](https://github.com/jh00000/Project_Portfolio/blob/main/3rd_Project/%E2%85%A0.%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%88%98%EC%A7%91/1.%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%88%98%EC%A7%91.ipynb)
 > - [2-1. 전처리 - 시간 및 일별 데이터](https://github.com/jh00000/Project_Portfolio/blob/main/3rd_Project/%E2%85%A1.%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC/2-1.%EC%8B%9C%EA%B0%84_%EB%B0%8F_%EC%9D%BC%EB%B3%84_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
 > - [2-2. 전처리 - 피해규모 데이터](https://github.com/jh00000/Project_Portfolio/blob/main/3rd_Project/%E2%85%A1.%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC/2-2.%ED%94%BC%ED%95%B4%EA%B7%9C%EB%AA%A8_%EB%8D%B0%EC%9D%B4%ED%84%B0_%EC%A0%84%EC%B2%98%EB%A6%AC.ipynb)
