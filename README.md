@@ -17,7 +17,7 @@
 > 기술 스택:
 > Python, Numpy, Pandas, matplotlib, seaborn, Scikit-learn
 >
-> 프로젝트 상세 설명 참고
+> [프로젝트 상세 설명](https://github.com/jh00000/Project_Portfolio/tree/main/1st_Project) 참고
 
 ---
 
@@ -29,7 +29,7 @@
 > 기술 스택:
 > Python, Numpy, Pandas, matplotlib, seaborn, Scikit-learn, Tensorflow, Pytorch
 >
-> 프로젝트 상세 설명 참고
+> [프로젝트 상세 설명](https://github.com/jh00000/Project_Portfolio/tree/main/2nd_Project) 참고
 
 ---
 
@@ -41,4 +41,4 @@
 > 기술 스택:
 > Python, Numpy, Pandas, matplotlib, seaborn, Scikit-learn, Tensorflow, SQL, Hadoop
 >
-> 프로젝트 상세 설명 참고
+> [프로젝트 상세 설명](https://github.com/jh00000/Project_Portfolio/tree/main/3rd_Project) 참고
