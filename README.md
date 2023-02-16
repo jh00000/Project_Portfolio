@@ -8,7 +8,12 @@
 
 </br>
 
-## 2. Projects
+## 2. Contact
+> E-mail : jinxpoem214@gmail.com
+
+</br>
+
+## 3. Projects
 ### 1) 한국 경제 전망
 > 소개: 1995년 ~ 2022년의 경제 지표를 분석하여 미래의 경제 위기 예측(팀 프로젝트)
 > 
