@@ -35,6 +35,6 @@
 ![](https://user-images.githubusercontent.com/111859093/219287977-2988c032-bc7c-4dc2-aa26-f564ab8eb891.JPG)
 
 ## 4. 배포
-[배포 페이지](http://www.weatherdata.shop/)
+배포 페이지 : [www.weatherdata.shop](http://www.weatherdata.shop/)
 
 ![](https://user-images.githubusercontent.com/111859093/219381233-492f19e5-31fb-4798-854f-3ccfdb28de24.JPG)
