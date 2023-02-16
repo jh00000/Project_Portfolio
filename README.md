@@ -37,6 +37,8 @@ E-mail : jinxpoem214@gmail.com
 > Python, Numpy, Pandas, matplotlib, seaborn, Scikit-learn, Tensorflow, Pytorch
 >
 > [프로젝트 상세 설명](https://github.com/jh00000/Project_Portfolio/tree/main/2nd_Project)
+>
+> ![](https://user-images.githubusercontent.com/111859093/219384006-f15955a9-6de4-4973-8865-a027eee1e718.jpg)
 
 ---
 
@@ -51,5 +53,3 @@ E-mail : jinxpoem214@gmail.com
 > [프로젝트 상세 설명](https://github.com/jh00000/Project_Portfolio/tree/main/3rd_Project)
 >
 > ![](https://user-images.githubusercontent.com/111859093/219380882-91eb1ac4-0fde-4ea5-92fd-31107dc70cc5.JPG)
->
-> ![](https://user-images.githubusercontent.com/111859093/219380954-ca26c664-2cc2-49b0-a301-b42f77874ca5.JPG)
