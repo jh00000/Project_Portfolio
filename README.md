@@ -23,6 +23,8 @@
 > Python, Numpy, Pandas, matplotlib, seaborn, Scikit-learn
 >
 > [프로젝트 상세 설명](https://github.com/jh00000/Project_Portfolio/tree/main/1st_Project)
+>
+> ![](https://user-images.githubusercontent.com/111859093/219380786-bc15c8c3-2a5a-4d31-a6b4-7b3cbdefa5f0.JPG)
 
 ---
 
@@ -47,3 +49,7 @@
 > Python, Numpy, Pandas, matplotlib, seaborn, Scikit-learn, Tensorflow, SQL, Hadoop
 >
 > [프로젝트 상세 설명](https://github.com/jh00000/Project_Portfolio/tree/main/3rd_Project)
+>
+> ![](https://user-images.githubusercontent.com/111859093/219380882-91eb1ac4-0fde-4ea5-92fd-31107dc70cc5.JPG)
+>
+> ![](https://user-images.githubusercontent.com/111859093/219380954-ca26c664-2cc2-49b0-a301-b42f77874ca5.JPG)
