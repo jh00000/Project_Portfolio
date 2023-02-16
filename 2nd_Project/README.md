@@ -1,7 +1,7 @@
 # 예술작품 분류 모델 설계
 > 소개: 예술작품의 일부분이 주어졌을 때 어느 예술가의 작품인지 분류하는 모델 설계
 >
-> [프로젝트 상세 설명]()
+> [프로젝트 상세 설명](https://github.com/jh00000/Project_Portfolio/blob/main/2nd_Project/2nd_Project_%EC%98%88%EC%88%A0%EC%9E%91%ED%92%88_%EB%B6%84%EB%A5%98.ipynb)
 
 </br>
 
