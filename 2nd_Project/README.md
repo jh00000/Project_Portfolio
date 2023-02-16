@@ -1,5 +1,5 @@
 # :bulb: 예술작품 분류 모델 설계
-> 소개: 예술작품의 일부분이 주어졌을 때 어느 예술가의 작품인지 분류하는 모델 설계
+> 소개: DACON 예술작품 화가 분류 AI 경진대회에 참여하여 예술작품의 일부분이 주어졌을 때 어느 예술가의 작품인지 분류하는 모델 설계
 >
 > [코드 및 설명](https://github.com/jh00000/Project_Portfolio/blob/main/2nd_Project/2nd_Project_%EC%98%88%EC%88%A0%EC%9E%91%ED%92%88_%EB%B6%84%EB%A5%98.ipynb)
 
